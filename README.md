@@ -1,4 +1,4 @@
-## KCEspot Community Hacktoberfest Contribution 2022
+## KCEspot - Hacktoberfest Expert Contribution 2022
 
 How to Contribute.
 

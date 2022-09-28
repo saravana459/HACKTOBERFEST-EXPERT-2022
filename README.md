@@ -1,4 +1,4 @@
-## KCEspot Community Hacktoberfest Contribution
+## KCEspot Community Hacktoberfest Contribution 2022
 
 How to Contribute.
 
@@ -8,14 +8,9 @@ How to Contribute.
 ```markdown
 git clone <url> (given in clone or download button)
 ```
-* To Run the application
-```markdown
-npm install
-node app (or) nodemon
-```
 * Create a branch
 ```markdown
-git checkout -b branch-name
+git checkout -b branch-name (To Create a branch)
 ```
 * Add the KCEspot main branch remote link to pull changes made by others
 ```markdown
